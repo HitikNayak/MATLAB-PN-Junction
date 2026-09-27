@@ -24,14 +24,14 @@ The numerical results are compared with the analytical depletion approximation t
 
 The following parameters are used for the simulation:
 
-| Parameter                        | Symbol       | Value                        |
-| -------------------------------- | ------------ | ---------------------------- |
-| Acceptor concentration           | $N_A$        | $1 \times 10^{15}$ cm$^{-3}$ |
-| Donor concentration              | $N_D$        | $1 \times 10^{16}$ cm$^{-3}$ |
-| Intrinsic carrier concentration  | $n_i$        | $1 \times 10^{10}$ cm$^{-3}$ |
-| Temperature                      | $T$          | 300 K                        |
-| Relative permittivity of silicon | $\epsilon_r$ | 11.7                         |
-| Number of mesh points            | $N$          | 4001                         |
+| Parameter | Symbol | Value |
+|---|---|---|
+| Acceptor concentration | N<sub>A</sub> | 1 &times; 10<sup>15</sup> cm<sup>-3</sup> |
+| Donor concentration | N<sub>D</sub> | 1 &times; 10<sup>16</sup> cm<sup>-3</sup> |
+| Intrinsic carrier concentration | n<sub>i</sub> | 1 &times; 10<sup>10</sup> cm<sup>-3</sup> |
+| Temperature | T | 300 K |
+| Relative permittivity of silicon | &epsilon;<sub>r</sub> | 11.7 |
+| Number of mesh points | N | 4001 |
 
 ## Theoretical Background
 
