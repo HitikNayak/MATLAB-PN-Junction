@@ -170,23 +170,6 @@ No additional MATLAB toolboxes are required.
 
 4. Run the script to calculate the junction parameters and generate the simulation plots.
 
-## Repository Structure
-
-```text
-MATLAB-PN-Junction/
-│
-├── README.md
-├── PN_Junction.m
-├── PN_Junction_MATLAB_Assignment.pdf
-│
-└── Figures/
-    ├── Junction_Structure.png
-    ├── Charge_Density.png
-    ├── Potential.png
-    └── Electric_Field.png
-```
-
-*The figures folder is optional. Add the generated plots if you want to display them in the repository.*
 
 ## Applications
 
